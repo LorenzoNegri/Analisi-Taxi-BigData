@@ -28,4 +28,26 @@ Lo scopo di questo progetto è dimostrare la possibilità di analizzare dati e a
 - Utilizzo di librerie GIS (Geographic Information System) e shapefile per integrare dati
 - Trasformazione e integrazione con dati geografici da shapefile
 
+[3. Analisi e Visualizzazioni](https://github.com/LorenzoNegri/Analisi-Taxi-BigData/blob/master/03_Analisi_Visualizzazioni.pdf)
+
+- Analisi dati a livello di quartiere e distanze percorse
+- Analisi Outliers
+- Visualizzazioni delle distribuzione delle corse taxi
+- Schemi riccorrenti nel tempo
+
+[4. Clustering e Modeling](https://github.com/LorenzoNegri/Analisi-Taxi-BigData/blob/master/04_Clustering_Modelling.pdf)
+
+- Visualizzazione grafica con libreria ggmap e Google maps API
+- K-means clustering per raggruppare i dati in base alla longitudine e alla latitudine
+- Modellazione lineare
+- Analisi risultati di previsione
+- Decision Tree e Random Forest
+- Confronto algoritmi
+- Misurazione e miglioramento prestazione predittiva
+
+[5. Deploying e Ridimensionamento](https://github.com/LorenzoNegri/Analisi-Taxi-BigData/blob/master/05_Deploying_Ridimensionamento.pdf)
+
+- Interfaccia con SQL server
+- In-database analytics
+
 
