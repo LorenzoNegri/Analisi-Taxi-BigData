@@ -1,4 +1,5 @@
-# NYC Taxi Big data - Bonifica, Elaborazione, Analisi e Data-mining con RevoScale R
+# NYC Taxi Big data
+# Bonifica, Elaborazione, Analisi e Data-mining con RevoScale R
 Data Science case study for a Microsoft 213x Class Project
 Lorenzo Negri, April 2018
 Applications used: Microsoft R Open, Visual Studio, RevoScaleR libraries
