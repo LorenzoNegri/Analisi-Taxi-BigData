@@ -16,3 +16,4 @@ Lo scopo di questo progetto è analizzare e applicare algoritmi di previsioni in
 [1. Panoramica Dati, Esplorazione e Statistiche riassuntive](https://github.com/LorenzoNegri/Analisi-Taxi-BigData/blob/master/01_Panoramica_Esplorazione_Statistiche.pdf)
 
 - Installazione Pacchetti aggiuntivi
+- Conversione CSV file in formato XDF (external data frame)
